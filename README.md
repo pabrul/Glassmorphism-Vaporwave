@@ -1,7 +1,4 @@
 # Glassmorphism Vaporwave 
-
-Static page under development with Glassmorphism Effect | Tilt Animation
-
 <br>
 <br>
 <p align="center">🚀 This is a little study project about Glassmorphism using CSS3</p>
